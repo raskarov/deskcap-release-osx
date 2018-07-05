@@ -21,4 +21,11 @@
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.21.zip" sparkle:version="21" sparkle:shortVersionString="0.0.21" length="9150738" type="application/octet-stream"/>
 </item>
+
+<item>
+<title>0.0.22</title>
+<pubDate>Tue, 08 Jul 2018 00:44:56 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.22.zip" sparkle:version="22" sparkle:shortVersionString="0.0.22" length="9150738" type="application/octet-stream"/>
+</item>
 </channel></rss>
