@@ -5,20 +5,20 @@
 <title>0.0.19</title>
 <pubDate>Tue, 01 Jul 2018 00:38:17 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.19.zip" sparkle:version="0.0.19" sparkle:shortVersionString="0.0.19" length="9151569" type="application/octet-stream"/>
+<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.19.zip" sparkle:version="19" sparkle:shortVersionString="0.0.19" length="9151569" type="application/octet-stream"/>
 </item>
 
 <item>
 <title>0.0.20</title>
-<pubDate>Tue, 05 Jul 2018 00:44:56 -0700</pubDate>
+<pubDate>Tue, 03 Jul 2018 00:44:56 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.20.zip" sparkle:version="0.0.20" sparkle:shortVersionString="0.0.20" length="9150738" type="application/octet-stream"/>
+<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.20.zip" sparkle:version="20" sparkle:shortVersionString="0.0.20" length="9150738" type="application/octet-stream"/>
 </item>
 
 <item>
 <title>0.0.21</title>
 <pubDate>Tue, 05 Jul 2018 00:44:56 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.21.zip" sparkle:version="0.0.21" sparkle:shortVersionString="0.0.21" length="9150738" type="application/octet-stream"/>
+<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.21.zip" sparkle:version="21" sparkle:shortVersionString="0.0.21" length="9150738" type="application/octet-stream"/>
 </item>
 </channel></rss>
