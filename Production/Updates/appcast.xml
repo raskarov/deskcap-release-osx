@@ -50,4 +50,11 @@
     <enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.27.zip" sparkle:version="27" sparkle:shortVersionString="0.0.27" length="9150738" type="application/octet-stream"/>
 </item>
 
+<item>
+    <title>0.0.28</title>
+    <pubDate>Tue, 25 Jul 2018 01:54:16 -0700</pubDate>
+    <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+    <enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask.0.0.28.zip" sparkle:version="28" sparkle:shortVersionString="0.0.28" length="9150738" type="application/octet-stream"/>
+</item>
+
 </channel></rss>
