@@ -26,9 +26,16 @@
 
 <item>
 <title>0.1.16</title>
-<pubDate>Sun, 2 Jun 2019 12:38:17 -0700</pubDate>
+<pubDate>Sun, 2 Jun 2019 11:38:17 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Release/Updates/Monitask_0.1.16.zip" sparkle:version="116" sparkle:shortVersionString="0.1.16" length="9451529" type="application/octet-stream"/>
+</item>
+
+<item>
+<title>0.1.17</title>
+<pubDate>Sun, 2 Jun 2019 12:38:17 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Release/Updates/Monitask_0.1.17.zip" sparkle:version="117" sparkle:shortVersionString="0.1.17" length="9451529" type="application/octet-stream"/>
 </item>
 
 </channel>
