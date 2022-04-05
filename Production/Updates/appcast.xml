@@ -524,10 +524,10 @@
 </item>
 
 <item>
-	<title>0.2.3</title>
+	<title>0.2.300</title>
 	<pubDate>Tue, 05 Apr 2022 01:18:54 +0000</pubDate>
 	<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-	<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask-0.2.3.zip" sparkle:version="230" sparkle:shortVersionString="0.2.30" length="25403656" type="application/octet-stream"/>
+	<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask-0.2.300.zip" sparkle:version="230" sparkle:shortVersionString="0.2.30" length="25403656" type="application/octet-stream"/>
 </item>
 
 </channel></rss>
