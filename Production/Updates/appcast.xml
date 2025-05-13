@@ -964,4 +964,11 @@
 	<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask-0.3.94.zip" sparkle:version="394" sparkle:shortVersionString="0.3.94" length="27727506" type="application/octet-stream"/>
 </item>
 
+<item>
+	<title>0.3.95</title>
+	<pubDate>Tue, 13 May 2025 23:56:58 +0000</pubDate>
+	<sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+	<enclosure url="https://raw.githubusercontent.com/raskarov/deskcap-release-osx/master/Production/Updates/Monitask-0.3.95.zip" sparkle:version="395" sparkle:shortVersionString="0.3.95" length="27727788" type="application/octet-stream"/>
+</item>
+
 </channel></rss>
